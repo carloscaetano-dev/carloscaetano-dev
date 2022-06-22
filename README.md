@@ -2,13 +2,13 @@
 
 Sou um entusiasta da tecnologia da informação, e por estar em transição de carreira, creio que o crescimento constante está intimamente ligado à novas experiências.
 
-Por compreender a importância da Tecnologia Informação, comecei a estudar para a áera de Qualyty Assurance no projeto <a href="https://www.linkedin.com/company/qa-coders/"> Qa.Coders</a>, mas no decorrer do projeto, a área de desonvolvimento me conquistou.
+Por compreender a importância da Tecnologia Informação, comecei a estudar para a áera de Qualyty Assurance no projeto <a href="https://www.linkedin.com/company/qa-coders/" target="_blank">Qa.Coders</a>, mas no decorrer do projeto, a área de desonvolvimento me conquistou.
 
 Nesse sentido, estou buscando sempre evoluir não só como profissional, mas também como pessoa.
 
 Resumindo ...
 
-- 🌱 Eu estou estudando para a áera de Desenvolvimento Web Full Stack, neste momento estutando HTML, CSS, JS, JQUERY, BOOTSRAP, REACT, FIREBASE, NODE JS, MONGO DB e SQL na <a href="https://programadorbr.com/"> Programandor BR</a>.
+- 🌱 Eu estou estudando para a áera de Desenvolvimento Web Full Stack, neste momento estutando HTML, CSS, JS, JQUERY, BOOTSRAP, REACT, FIREBASE, NODE JS, MONGO DB e SQL na <a href="https://programadorbr.com/" target="_blank">Programandor BR</a>.
 - ⚡ Além disso, estou estudando sobre como desenvolver softwares web de maneira moderna e ágil.
 
 ##
