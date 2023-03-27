@@ -1,8 +1,8 @@
 ### Olá, eu sou Carlos Caetano👋
 
-Sou um entusiasta da tecnologia da informação, e por estar em transição de carreira, creio que o crescimento constante está intimamente ligado à novas experiências.
+Sou um entusiasta da tecnologia da informação e creio que o crescimento constante está intimamente ligado à novas experiências e tecnolgias.
 
-Por compreender a importância da Tecnologia da Informação, comecei a estudar para a áera de Qualyty Assurance no projeto <a href="https://www.linkedin.com/company/qa-coders/" target="_blank">Qa.Coders</a>, mas no decorrer do projeto, a área de desonvolvimento me conquistou.
+Por compreender a importância da Tecnologia da Informação, estou me graduando em Análise e Desenvolvimento de Sistemas na <a href="https://faculdade.grancursosonline.com.br/" target="_blank">Gran Faculdade</a> e paralelamente estudando Desenvolvimente Web Full Stack.
 
 Nesse sentido, estou buscando sempre evoluir não só como profissional, mas também como pessoa.
 
